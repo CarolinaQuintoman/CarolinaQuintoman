@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Comencé mi camino en la programación hace dos años y desde entonces, no he dejado de enamorarme de este fascinante campo. Siempre hay algo nuevo por descubrir y aprender, y eso es lo que me motiva a seguir creciendo como profesional.<br>🎯 Mi experiencia como jugadora de hockey durante muchos años me enseñó la importancia del trabajo en equipo y la generación de vínculos sólidos con mis compañeros. He tenido la suerte de formar parte de un equipo de 20 increíbles amigas que este deporte me regaló.</p>
+<p align="left">✨ Comencé mi camino en la programación hace dos años y desde entonces, no he dejado de enamorarme de este fascinante campo. Siempre hay algo nuevo por descubrir y aprender, y eso es lo que me motiva a seguir creciendo como profesional.<br>🎯 Mi experiencia como jugadora de hockey durante muchos años me enseñó la importancia del trabajo en equipo y la generación de vínculos sólidos con mis compañeros. He tenido la suerte de formar parte de un equipo de 20 increíbles amigas que este deporte me regaló.<br>🤩 Contribuciones destacadas<br>Recientemente, tuve el desafío de contribuir al proyecto Code Community, donde me enfrenté a aprender Python desde cero y su framework Django. Lidiar con los desafíos diarios, mantener la unión en el equipo y hacerlo divertido fue una experiencia maravillosa que me permitió crecer como desarrolladora.<br><br>😀¡Conéctate conmigo! <br>Si estás interesado en conocer más sobre mi trabajo y experiencia, te invito a visitar mi perfil de LinkedIn: Carolina Quintoman. Estoy siempre abierto a nuevas oportunidades y proyectos emocionantes.<br><br>¡Gracias por visitar mi perfil!</p>
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
