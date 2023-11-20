@@ -1,8 +1,8 @@
-<h1 align="left">¡Hola, soy Carolina Quintoman! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> </h1>
+<h1 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> ¡Hola, soy Carolina Quintoman! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> </h1>
 
 ###
 
-<p align="left">Apasionada del deporte, la naturaleza y la programación web full stack. Me encanta enfrentar nuevos desafíos y aprender constantemente en este emocionante mundo de la programación.</p>
+<p align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25" /> Apasionada del deporte, la naturaleza y la programación web full stack. Me encanta enfrentar nuevos desafíos y aprender constantemente en este emocionante mundo de la programación.</p>
 
 ###
 
